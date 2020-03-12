@@ -1,4 +1,4 @@
-year,month,day,carrier,origin_airport,dest_airport,crs_dep_time,dep_time,dep_delay,dep_del15,crs_arr_time,cancelled,weather_delay,originClds,originPrecip_hrly,originPrecip_total,originPressure,originSnow_hrly,originTemp,originVis,originWspd,originCondition,destclds,destPrecip_hrly,destPrecip_total,destPressure,destSnow_hrly,destTemp,destVis,destWspd,destCondition
+year,month,day,carrier,origin_airport,dest_airport,crs_dep_time,dep_time,dep_delay,dep_del15,crs_arr_time,cancelled,weather_delay,originClds,originPrecip_hrly,originPrecip_total,originPressure,originSnow_hrly,originTemp,originVis,originWspd,originCondition,destClds,destPrecip_hrly,destPrecip_total,destPressure,destSnow_hrly,destTemp,destVis,destWspd,destCondition
 2019,3,1,AA,11298,12892,1520,1536,16.00,1.00,1647,0.00,0.00,OVC,0,0,29.37,0,44,8,5,Cloudy,BKN,0,0,29.92,0,61,8,10,Cloudy
 2019,3,3,AA,11298,12892,1530,1527,0.00,0.00,1654,0.00,0.00,OVC,0,0,29.57,0,35,8,20,Cloudy,OVC,0.0,0.0,29.99,0,55,2,13,Fog
 2019,3,4,AA,11298,12892,1520,1528,8.00,0.00,1644,0.00,0.00,BKN,0,0,29.72,0,32,10,13,Mostly Cloudy,BKN,0,0,29.91,0,60,10,10,Mostly Cloudy
