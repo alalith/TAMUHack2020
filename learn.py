@@ -1,4 +1,8 @@
-import pandas as pd
+import csv
+with open('training_data.csv') as f:
+    reader = csv.reader(f, skipinitialspace=True)
+    header = next(reader)
+    a = [dict(zip(header, map(str, row))) for row in reader]
 
-df = pd.read_csv(r'flight_data_2019.csv')
-print(df)
+for x in a:
+    print(x['carrier'])
